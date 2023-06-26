@@ -1,5 +1,9 @@
 # JA - Tech
-A simple user-management tool.
+A simple user-management tool. Steps to run development server:
+
+1. `npm install`
+2. `npm run dev`
+3. Voila!
 
 ## Client
 The client is made using the NextJS 13, utilising the server side components within the `app` directory.
